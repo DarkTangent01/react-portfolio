@@ -5,6 +5,7 @@ const config = require("../config");
 
 const secretUser = config.getUser();
 
+
 router.get("/getLikes", (req, res, next) => {
   likesData.findOne({ name: secretUser }, (err, result) => {
     if (err) {
