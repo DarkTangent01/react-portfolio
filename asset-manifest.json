@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.c8adf4fb.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.7006736b.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.7006736b.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.947c34c1.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.947c34c1.js.map",
+    "static/css/2.92200efa.chunk.css": "/react-portfolio/static/css/2.92200efa.chunk.css",
+    "static/js/2.7852e955.chunk.js": "/react-portfolio/static/js/2.7852e955.chunk.js",
+    "static/js/2.7852e955.chunk.js.map": "/react-portfolio/static/js/2.7852e955.chunk.js.map",
+    "static/js/3.3a25458a.chunk.js": "/react-portfolio/static/js/3.3a25458a.chunk.js",
+    "static/js/3.3a25458a.chunk.js.map": "/react-portfolio/static/js/3.3a25458a.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/2.92200efa.chunk.css.map": "/react-portfolio/static/css/2.92200efa.chunk.css.map",
+    "static/css/main.c8adf4fb.chunk.css.map": "/react-portfolio/static/css/main.c8adf4fb.chunk.css.map",
+    "static/js/2.7852e955.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.7852e955.chunk.js.LICENSE.txt",
+    "static/media/Mayank-Srivastava.7d470ea4.pdf": "/react-portfolio/static/media/Mayank-Srivastava.7d470ea4.pdf",
+    "static/media/about.aee0f771.png": "/react-portfolio/static/media/about.aee0f771.png",
+    "static/media/avatar.7f806e40.svg": "/react-portfolio/static/media/avatar.7f806e40.svg",
+    "static/media/chatify.184844ef.png": "/react-portfolio/static/media/chatify.184844ef.png",
+    "static/media/codeEditor.398cd3f6.png": "/react-portfolio/static/media/codeEditor.398cd3f6.png",
+    "static/media/emotion.a9bdaddc.jpeg": "/react-portfolio/static/media/emotion.a9bdaddc.jpeg",
+    "static/media/style.css": "/react-portfolio/static/media/pre.4410c5ba.svg",
+    "static/media/home-main.359935c3.svg": "/react-portfolio/static/media/home-main.359935c3.svg",
+    "static/media/leaf.cabb1fe5.png": "/react-portfolio/static/media/leaf.cabb1fe5.png",
+    "static/media/suicide.9ad9d61f.png": "/react-portfolio/static/media/suicide.9ad9d61f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.947c34c1.js",
+    "static/css/2.92200efa.chunk.css",
+    "static/js/2.7852e955.chunk.js",
+    "static/css/main.c8adf4fb.chunk.css",
+    "static/js/main.7006736b.chunk.js"
+  ]
+}
